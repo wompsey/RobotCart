@@ -1,6 +1,6 @@
 import wpilib
 from robotpy_rev_digit import RevDigitBoard
-
+print("This is a test")
 I2C_DEV_ADDR = 0x70
 TEST_PATTERN = "   ABCDEFGHIJKLMNOPQRSTUVWXYZ*?@#   "
 
